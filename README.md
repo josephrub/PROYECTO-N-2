@@ -1,6 +1,6 @@
-Resolución de ejercicios del Proyecto N°1 del Programa de Ciencia de Datos & Machine Learning con Python
+Resolución de ejercicios del Proyecto N°2 del Programa de Ciencia de Datos & Machine Learning con Python
 
-Este proyecto consiste en la resolución de 4 ejercicios empleando el lenguaje de programación Python, especificamente se empleó el entorno de google colab para todo el desarrollo.
+Este proyecto consiste en la resolución de 5 ejercicios empleando el lenguaje de programación Python, especificamente se empleó el entorno de google colab para todo el desarrollo.
 
 Las explicaciones generales del código se encuentran a manera de comentario en su desarrollo.
 
